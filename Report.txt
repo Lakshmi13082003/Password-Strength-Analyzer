@@ -1,0 +1,228 @@
+
+
+1️⃣ Objective
+
+The objective of this task is to understand what makes a password strong, test different passwords using an online password strength checker, and analyze how password complexity affects security.
+
+
+---
+
+2️⃣ Tool Used
+
+Online Password Strength Checker
+
+Example: https://www.passwordmeter.com
+
+
+
+
+---
+
+3️⃣ Passwords Created and Tested
+
+I created multiple passwords with different complexity levels and tested them using an online password strength checker.
+
+
+---
+
+🔹 Password 1: password123
+
+Strength Score: Very Weak
+Feedback:
+
+Contains common word “password”
+
+Contains only lowercase letters and numbers
+
+Too predictable
+
+Easily guessable
+
+
+Analysis:
+This password is vulnerable to dictionary attacks and brute force attacks. It is not secure.
+
+
+---
+
+🔹 Password 2: Lakshmi@123
+
+Strength Score: Medium
+Feedback:
+
+Contains uppercase and lowercase letters
+
+Contains numbers and symbol
+
+Based on name (predictable)
+
+
+Analysis:
+Better than the first password, but still weak because it contains a personal name. Can be guessed through social engineering.
+
+
+---
+
+🔹 Password 3: Gk!9Lp#2xQ
+
+Strength Score: Strong
+Feedback:
+
+Good length
+
+Uses uppercase, lowercase, numbers, and symbols
+
+No dictionary words
+
+High randomness
+
+
+Analysis:
+This password is strong and resistant to brute force and dictionary attacks.
+
+
+---
+
+🔹 Password 4 (Passphrase):
+
+BlueTiger!Runs@Night2026
+
+Strength Score: Very Strong
+Feedback:
+
+Long length
+
+Contains uppercase, lowercase, numbers, and symbols
+
+Hard to guess
+
+Not based on common phrases
+
+
+Analysis:
+Long passphrases are more secure because length significantly increases the time required for brute force attacks.
+
+
+---
+
+4️⃣ What Makes a Password Strong?
+
+A strong password:
+
+Is at least 12–16 characters long
+
+Uses uppercase and lowercase letters
+
+Includes numbers and symbols
+
+Does not contain dictionary words
+
+Is not based on personal information
+
+Is unique for each account
+
+
+
+---
+
+5️⃣ Common Password Attacks
+
+🔹 Brute Force Attack
+
+An attacker tries every possible combination until the correct password is found.
+
+🔹 Dictionary Attack
+
+An attacker uses a list of common words and passwords to guess the password.
+
+🔹 Credential Stuffing
+
+Using leaked passwords from one website to access other accounts.
+
+
+---
+
+6️⃣ Why Password Length Is Important
+
+Longer passwords:
+
+Increase possible combinations
+
+Take significantly more time to crack
+
+Provide better protection against brute force attacks
+
+
+Example:
+An 8-character password is much easier to crack than a 16-character password.
+
+
+---
+
+7️⃣ What is Multi-Factor Authentication (MFA)?
+
+Multi-Factor Authentication adds an extra layer of security by requiring:
+
+Something you know (password)
+
+Something you have (OTP, mobile phone)
+
+Something you are (biometrics)
+
+
+Even if a password is compromised, MFA protects the account.
+
+
+---
+
+8️⃣ How Password Managers Help
+
+Password managers:
+
+Generate strong random passwords
+
+Store passwords securely
+
+Prevent reuse of passwords
+
+Reduce human memory limitations
+
+
+
+---
+
+9️⃣ What Are Passphrases?
+
+Passphrases are long combinations of random words that are easy to remember but hard to crack.
+
+Example:
+GreenApple!RiverSky2026
+
+They are more secure because of increased length.
+
+
+---
+
+🔟 Best Practices Learned
+
+Never reuse passwords
+
+Avoid personal names and birthdates
+
+Use at least 12–16 characters
+
+Enable Multi-Factor Authentication
+
+Use a password manager
+
+Avoid common words
+
+
+
+---
+
+🎯 Conclusion
+
+Through this task, I understood how password complexity and length directly affect security. Strong passwords significantly reduce the risk of brute force and dictionary attacks. Using passphrases and enabling MFA provides enhanced protection.
+
+
